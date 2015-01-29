@@ -1,1 +1,6 @@
-name, date, description
+Jacinda Ballantyne, 1/30/15
+Description: 
+At the beginning, a blank white canvas appears. The user must first click on the canvas to 
+display a shape. The first shape is a red square. Upon a second click, a red triangle replaces the square. 
+On a third click, a red rhombus replaces the triangle. A fourth click will return to the square and 
+successive clicks will continue to cycle through the three shapes. 
